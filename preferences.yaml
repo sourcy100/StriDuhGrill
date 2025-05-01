@@ -1,0 +1,23 @@
+
+# StripDaGirl Preferences File
+
+GuiScale: 2
+bgColor: '#1F0C0C' # (!) 6 symbols
+debugMode: false
+
+
+# All: sk, sh, tsh, tr, bra, pre_bra, pre_tr
+
+# Example:
+# - sk
+# - sh
+# - tr
+# - bra
+
+cloth-list:
+  - sk
+  - sh
+  - tr
+  - bra
+  - pre_bra
+  - pre_tr
